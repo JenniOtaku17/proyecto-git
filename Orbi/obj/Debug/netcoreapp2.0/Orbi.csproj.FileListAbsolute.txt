@@ -1,0 +1,11 @@
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.csprojAssemblyReference.cache
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.AssemblyInfoInputs.cache
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.AssemblyInfo.cs
+C:\Users\Jennifer\source\repos\Orbi\Orbi\bin\Debug\netcoreapp2.0\Orbi.deps.json
+C:\Users\Jennifer\source\repos\Orbi\Orbi\bin\Debug\netcoreapp2.0\Orbi.runtimeconfig.json
+C:\Users\Jennifer\source\repos\Orbi\Orbi\bin\Debug\netcoreapp2.0\Orbi.runtimeconfig.dev.json
+C:\Users\Jennifer\source\repos\Orbi\Orbi\bin\Debug\netcoreapp2.0\Orbi.dll
+C:\Users\Jennifer\source\repos\Orbi\Orbi\bin\Debug\netcoreapp2.0\Orbi.pdb
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.dll
+C:\Users\Jennifer\source\repos\Orbi\Orbi\obj\Debug\netcoreapp2.0\Orbi.pdb

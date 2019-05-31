@@ -17,12 +17,13 @@ namespace Orbi.Controllers
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("{nombre}")]
+        public string Get(string nombre)
         {
-            return "value";
+            return "Bienvenid@ " + nombre + " al Orbi 3.0, te encuentras en el inicio";
         }
 
+     
         // POST api/values
         [HttpPost]
         public void Post([FromBody]string value)
