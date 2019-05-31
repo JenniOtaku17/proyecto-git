@@ -18,7 +18,7 @@ namespace Orbi.Controllers
 
         // GET api/values/5
         [HttpGet("{nombre}")]
-        public string Get(string nombre, int num)
+        public string Get(string nombre)
         {
             return "Bienvenid@ " + nombre + " al Orbi 3.0, te encuentras en el inicio";
         }
